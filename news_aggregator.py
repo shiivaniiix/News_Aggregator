@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
 # API Key (replace with your actual API key)
-API_KEY = '0e0e4a62a507460f821197c664cdf5cc'
+API_KEY = 'your_key'
 BASE_URL = 'https://newsapi.org/v2/top-headlines'
 
 # Categories to fetch
